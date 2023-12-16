@@ -1,0 +1,9 @@
+{
+    "name": "Besla's_Modpack ",
+    "version_number": "1.1.0",
+    "website_url": "",
+    "description": "Modpack for my friends",
+    "dependencies": [
+        "MythicManiac-TestMod-1.1.0"
+    ]
+}
